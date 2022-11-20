@@ -1,0 +1,41 @@
+name,type,value
+Botticelli,artist,0.5
+Donatello,artist,0.5
+Duccio Buonisegna,artist,0.5
+Gentile Bellini,artist,0.5
+Giotto di Bondone,artist,0.5
+Giovanni Bellini,artist,0.5
+Leonardo,artist,0.5
+Massaccio,artist,0.5
+Michelangelo,artist,0.5
+Raphael,artist,0.5
+Tintoretto,artist,0.5
+Titian,artist,0.5
+Veronese,artist,0.5
+Giorgione,artist,0.5
+Verrocchio,artist,0.5
+Fra Angelico,artist,0.5
+Brunelleschi,artist,0.5
+Alberti,artist,0.5
+Perugino,artist,0.5
+Bramante,artist,0.5
+Mantegna,artist,0.5
+Antonello de Messina,artist,0.5
+Jacopo Bellini,artist,0.5
+Filippo Lippi,artist,0.5
+Giovanni Pisano,artist,0.5
+Paolo Ucello,artist,0.5
+Cimabue,artist,0.5
+Piero della Francesca,artist,0.5
+Andrea Palladio,artist,0.5
+Jacopo Bassano,artist,0.5
+Florence,city,4
+Mantua,city,3
+Milan,city,3
+Rome,city,6
+Siena,city,2
+Urbino,city,2
+Venice,city,5
+Padua,city,2
+Naples,city,2
+Perugia,city,2
